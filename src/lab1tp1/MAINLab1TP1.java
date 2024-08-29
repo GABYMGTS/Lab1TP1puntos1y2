@@ -20,7 +20,7 @@ import java.util.Scanner;
  *
  * @author mgts
  */
-public class Lab1TP1 {
+public class MAINLab1TP1 {
 
     /**
      * @param args the command line arguments
